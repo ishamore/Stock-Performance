@@ -15,15 +15,21 @@ Jupyter Notebook – For exploratory analysis and data export
 
 ## Data
 Source: Yahoo Finance via the yfinance Python package
+
 Time Range: Multi-year daily stock data (2020–2025)
 
 ## Stocks Analyzed:
 
 AAPL (Apple)
+
 MSFT (Microsoft)
+
 AMZN (Amazon)
+
 GOOGL (Google)
+
 TSLA (Tesla)
+
 NVDA (Nvidia)
 
 ## Dashboard Highlights
