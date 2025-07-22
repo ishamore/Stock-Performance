@@ -10,7 +10,9 @@ This project explores the historical performance of leading tech stocks — incl
 
 ## Tools Used
 Python (Pandas, yfinance) – For data fetching, cleaning, and preprocessing
+
 Tableau – For building an interactive visual dashboard
+
 Jupyter Notebook – For exploratory analysis and data export
 
 ## Data
@@ -35,13 +37,20 @@ NVDA (Nvidia)
 ## Dashboard Highlights
 The dashboard is split into two linked Tableau pages for clarity and usability:
 
-Page 1: Stock Trends & Performance
+### Page 1: Stock Trends & Performance
+
 KPI Cards – Latest Closing Price, Daily Return %, Daily Volume
+
 Line Chart – Closing price trends over time
+
 Bar Chart – Daily Return % comparison across companies
+
 Moving Averages - SME 20 & SME 50
 
-Page 2: Volume & Price Distribution
+### Page 2: Volume & Price Distribution
+
 Volume Trends – Daily trading volume over time
+
 Volatility – 20-day rolling standard deviation visualization
+
 Normalized Price Distribution
